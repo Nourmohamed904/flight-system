@@ -1,4 +1,4 @@
-
+# flight booking system
 This C++ program is a flight booking simulation system that allows:
 
 Adding and removing passengers  
